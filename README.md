@@ -1,2 +1,0 @@
-# Servidor
-Server dos crias
